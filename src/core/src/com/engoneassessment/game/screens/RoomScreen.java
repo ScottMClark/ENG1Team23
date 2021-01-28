@@ -114,12 +114,7 @@ public class RoomScreen implements Screen {
     public void render(float delta) {
         //Checks if the player is on top of the teleporter
         if(this == gameEntry.getCurrentRoomScreen()){
-            if(this.auber.getBounds().overlaps(teleporter.getBounds())){
-                gameEntry.hudStage.isTeleportEnabled(true);
-            }
-            else{
-                gameEntry.hudStage.isTeleportEnabled(false);
-            }
+            gameEntry.hudStage.isTeleportEnabled(this.auber.getBounds().overlaps(teleporter.getBounds()));
         }
         //Checks for movement keys being held
         movement();
