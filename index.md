@@ -24,7 +24,6 @@ Tammy Yeung
 - [Architecture](https://docs.google.com/document/d/1yYBxvUv1Po4BfTDwSSL2ZOpdtSBmocLk-oVDcni-WdM/edit?usp=sharing)
 - [Method Selection and Planning](https://docs.google.com/document/d/1EZsbZt13EBUWk81VG4KXxBATnYtuh7aFyn5ZFLzkh0I/edit?usp=sharing)
 - [Risk Assessment and Mitigation](https://docs.google.com/document/d/1DWiCJq6-TyGzkb-Gl2I1ORbHMRxZHRy_fQkjSXIVQHU/edit?usp=sharing)
-- [Implementation](https://docs.google.com/document/d/1tIjko_7QxPLY9K7xWDwy3DejCkkLC1H0bjJS7uPX6vQ/edit?usp=sharing)
 
 ### Assessment 2 Documentation
 
