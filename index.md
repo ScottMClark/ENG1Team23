@@ -26,11 +26,10 @@ Tammy Yeung
 
 ### Assessment 2 Documentation
 
-- [Change Report](https://docs.google.com/document/d/13156ywn519An_QWeEImV5j5__AVFFo-zgKqG7HZolH8/edit?usp=sharing)
-- [Implementation](https://docs.google.com/document/d/1yYBxvUv1Po4BfTDwSSL2ZOpdtSBmocLk-oVDcni-WdM/edit?usp=sharing)
-- [Testing](https://docs.google.com/document/d/1EZsbZt13EBUWk81VG4KXxBATnYtuh7aFyn5ZFLzkh0I/edit?usp=sharing)
-- [Continuous Integration](https://docs.google.com/document/d/1DWiCJq6-TyGzkb-Gl2I1ORbHMRxZHRy_fQkjSXIVQHU/edit?usp=sharing)
-- [Self-Assessment Table](https://docs.google.com/document/d/1TOCMTeezneYBqNM8k387vfA3V8Ni5CZD46dHDEBFzOc/edit?usp=sharing)
+- [Change Report](https://drive.google.com/file/d/1BzfYf5K_QiLJf2lVhhzScECuyxKaQNpk/view?usp=sharing)
+- [Implementation](https://drive.google.com/file/d/1sLAVCsaiukEYnw-6DfASEXgL4HwvuRho/view?usp=sharing)
+- [Testing]()
+- [Continuous Integration](https://drive.google.com/file/d/1f7gNQAREfzvXN-V8OBuMwZOqEbdKxwar/view?usp=sharing)
 
 ## Testing
 
