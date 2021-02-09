@@ -8,7 +8,6 @@ Tammy Yeung
 ### Auber Game Download
 
 - [Auber](https://docs.google.com/document/d/13156ywn519An_QWeEImV5j5__AVFFo-zgKqG7HZolH8/edit?usp=sharing)
-- [User Manual](https://docs.google.com/document/d/13156ywn519An_QWeEImV5j5__AVFFo-zgKqG7HZolH8/edit?usp=sharing)
 
 ### Assessment 1 Documentation (pre change report)
 
