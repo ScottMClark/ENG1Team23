@@ -91,33 +91,33 @@ Tammy Yeung
 | Test ID | Requirement                              | Passed  |
 | ------- | ---------------------------------------- | ------- |
 | PRE1    | UR\_MOVE                                 | Passed. |
-| PRE2    | Passed.                                  |
-| PRE3    | Passed.                                  |
+| PRE2    | | Passed.                                  |
+| PRE3    || Passed.                                  |
 | PRE4    | UR\_INFILTRATORS UR\_CITIZENS UR\_ARREST | Passed. |
-| PRE5    | Passed.                                  |
-| PRE6    | Passed.                                  |
+| PRE5    || Passed.                                  |
+| PRE6    || Passed.                                  |
 | PRE7    | UR\_HOSTILE\_ABILITIES                   | Passed. |
-| PRE8    | Passed.                                  |
-| PRE9    | Passed.                                  |
-| PRE10   | Passed.                                  |
+| PRE8    || Passed.                                  |
+| PRE9    || Passed.                                  |
+| PRE10   || Passed.                                  |
 | PRE11   | UR\_FOUR\_ROOMS UR\_MOVE                 | Passed. |
-| PRE12   | Passed.                                  |
-| PRE13   | Passed.                                  |
-| PRE14   | Passed.                                  |
-| PRE15   | Passed.                                  |
-| PRE16   | Passed.                                  |
+| PRE12   || Passed.                                  |
+| PRE13   || Passed.                                  |
+| PRE14   || Passed.                                  |
+| PRE15   || Passed.                                  |
+| PRE16   || Passed.                                  |
 | INTSAV1 | UR\_SAVE                                 | Passed. |
-| INTSAV2 | Passed.                                  |
-| INTSAV3 | Passed.                                  |
+| INTSAV2 || Passed.                                  |
+| INTSAV3 || Passed.                                  |
 | INTPOW1 | UR\_AUBER\_ABILITIES                     | Passed. |
-| INTPOW2 | Passed.                                  |
+| INTPOW2 || Passed.                                  |
 | COMP1   | UR\_SAVE                                 | Passed. |
-| COMP2   | Passed.                                  |
+| COMP2   || Passed.                                  |
 | COMP3   | UR\_LEVEL                                | Passed. |
 | COMP4   | UR\_AUBER\_ABILITIES                     | Passed. |
-| COMP5   | Passed.                                  |
-| COMP6   | Passed.                                  |
-| COMP7   | Passed.                                  |
-| COMP8   | Passed.                                  |
-| COMP9   | Passed.                                  |
+| COMP5   || Passed.                                  |
+| COMP6   || Passed.                                  |
+| COMP7   || Passed.                                  |
+| COMP8   || Passed.                                  |
+| COMP9   || Passed.                                  |
 | COMP10  | UR\_CITIZENS                             | Passed. |
