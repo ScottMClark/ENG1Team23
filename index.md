@@ -35,6 +35,7 @@ Tammy Yeung
 ## Testing
 
 ### Pre-Implementation Component Testing
+
 | Test ID | Feature to test and functions that make it work                                                                                                                                                                                           | Description of actions to take                                                            | Expected result                                                                           | Actual result                                   |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | PRE1    | Player movement game.actors.characters.Auber#handleMovement<br>Everything from MovementSystem                                                                                                                                             | Input movement keys one at a time                                                         | Player moves                                                                              | Passed.                                         |
@@ -52,7 +53,7 @@ Tammy Yeung
 | PRE13   | Walk into a wall by repetedly walking into it vertically                                                                                                                                                                                  | Passed.                                                                                   |
 | PRE14   | Walk into a wall by repetedly walking into it Horizontally                                                                                                                                                                                | Passed.                                                                                   |
 | PRE15   | Walk into a wall by going horizontally then vertically.                                                                                                                                                                                   | Failed.                                                                                   |
-| PRE16   | Walt at multiple walls horizontally                                                                                                                                                                                                       
+| PRE16   | Walt at multiple walls horizontally                                                                                                                                                                                                       | Passed.                                                                                   |
 
 ### Integration Testing
 
